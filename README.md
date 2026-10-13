@@ -1,5 +1,3 @@
-
-
 # VLSI Roadmap - No Turning Back
 
 > EEE @ IUBAT | Aspiring Chip Design Engineer
